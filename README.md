@@ -11,3 +11,6 @@ Template Woocommerce PHP
 * PHP Compatibility Checker (1.5.0 -- WP Engine)
 * WP Rollback (1.7.1 -- Impress.org)
 
+3. Export File DB: shop_wp_20201029_min_12_tables.sql
+
+
