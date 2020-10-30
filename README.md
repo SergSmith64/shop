@@ -20,5 +20,6 @@ install necessary plugins:
 * WooCommerce SEO Addon (1.1.4 -- premmerce)
 * WooCommerce Permalink Manager (1.1.4 -- premmerce)
 
+5. Export File DB (Add new pages): shop_wp_20201030_30_tables.sql
 
 
