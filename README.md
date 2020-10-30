@@ -9,8 +9,16 @@ Template Woocommerce PHP
 * Classic Editor /--NEED for WP 5.0-- /
 * Page Template Dashboard (1.7.0 -- Tom McFarlin)
 * PHP Compatibility Checker (1.5.0 -- WP Engine)
-* WP Rollback (1.7.1 -- Impress.org)
+install necessary plugins:
 
 3. Export File DB: shop_wp_20201029_min_12_tables.sql
+
+4. Install main plugins:
+* Premmerce (1.3 -- premmerce)
+* WooCommerce (3.3.3 -- Automattic)
+* Yoast SEO (7.5 -- Team Yoast)
+* WooCommerce SEO Addon (1.1.4 -- premmerce)
+* WooCommerce Permalink Manager (1.1.4 -- premmerce)
+
 
 
