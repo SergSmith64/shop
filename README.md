@@ -22,4 +22,5 @@ install necessary plugins:
 
 5. Export File DB (Add new pages): shop_wp_20201030_30_tables.sql
 
+6. Finished setting, change logo, added form to contact-page
 
