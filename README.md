@@ -24,3 +24,5 @@ install necessary plugins:
 
 6. Finished setting, change logo, added form to contact-page
 
+7. Inport data: Premmerce Dev Tools (2.0 -- premmerce) --> GENERATE DATA
+
