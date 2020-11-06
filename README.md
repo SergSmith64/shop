@@ -24,5 +24,9 @@ install necessary plugins:
 
 6. Finished setting, change logo, added form to contact-page
 
-7. Inport data: Premmerce Dev Tools (2.0 -- premmerce) --> GENERATE DATA
+7. Import data:  plugin Premmerce Dev Tools (2.0 -- premmerce) --> GENERATE DATA
+
+8. Edit data + images & Install plugins:
+* WooCommerce Product Search (Premmerce  Search) (1.1.2 -- premmerce)
+* Premmerce WooCommerce Product Filter (1.1.1 -- Premmerce)
 
