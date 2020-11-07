@@ -30,3 +30,6 @@ install necessary plugins:
 * WooCommerce Product Search (Premmerce  Search) (1.1.2 -- premmerce)
 * Premmerce WooCommerce Product Filter (1.1.1 -- Premmerce)
 
+9. Install plugins for debug & edit:
+* What The File (1.5.4 -- Never5)
+* WooCommerce Customizer (2.7.4 -- SkyVerge)
