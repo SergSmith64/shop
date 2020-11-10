@@ -33,3 +33,6 @@ install necessary plugins:
 9. Install plugins for debug & edit:
 * What The File (1.5.4 -- Never5)
 * WooCommerce Customizer (2.7.4 -- SkyVerge)
+
+10. Install plugins And add NEW taxonomy: Brands.
+*  Premmerce WooCommerce Brands (1.1.4 -- premmerce)
