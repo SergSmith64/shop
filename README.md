@@ -34,5 +34,11 @@ install necessary plugins:
 * What The File (1.5.4 -- Never5)
 * WooCommerce Customizer (2.7.4 -- SkyVerge)
 
-10. Install plugins And add NEW taxonomy: Brands.
+10. Install plugins And add NEW taxonomy: Brands And add NEW page Brands
 *  Premmerce WooCommerce Brands (1.1.4 -- premmerce)
+
+11. Install plugins:
+* WooCommerce Customers Manager (1.1.4 -- premmerce)
+* Premmerce User Roles (1.0.6 -- Premmerce)
+* Premmerce Wishlist for WooCommerce (1.1.4 -- Premmerce) And add NEW page Wishlist
+
