@@ -48,3 +48,12 @@ install necessary plugins:
 * Premmerce Redirect Manager (1.0.3 -- Premmerce)
 * Premmerce Woocommerce Wholesale Pricing (1.1.4 -- Premmerce)
 
+14. Install plugin:
+* Premmerce Frequently Bought Together for WooCommerce (1.0.7 -- Premmerce)
+
+Examples pages:
+
+https://storefront.premmerce.com/apple-iphone-64gb-x/
+
+https://saleszone.premmerce.com/apple-iphone-64gb-x/
+
