@@ -42,3 +42,4 @@ install necessary plugins:
 * Premmerce User Roles (1.0.6 -- Premmerce)
 * Premmerce Wishlist for WooCommerce (1.1.4 -- Premmerce) And add NEW page Wishlist
 
+12. Export File DB: shop_wp_20201111_32_tables.sql
