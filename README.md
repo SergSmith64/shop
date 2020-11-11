@@ -43,3 +43,8 @@ install necessary plugins:
 * Premmerce Wishlist for WooCommerce (1.1.4 -- Premmerce) And add NEW page Wishlist
 
 12. Export File DB: shop_wp_20201111_32_tables.sql
+
+13. Install plugins:
+* Premmerce Redirect Manager (1.0.3 -- Premmerce)
+* Premmerce Woocommerce Wholesale Pricing (1.1.4 -- Premmerce)
+
