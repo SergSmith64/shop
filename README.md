@@ -58,3 +58,5 @@ Examples pages:
 [saleszone](https://saleszone.premmerce.com/apple-iphone-64gb-x/)
 
 15. Export File DB: shop_wp_20201112_37_tables.sql
+
+16. Add new category and content
