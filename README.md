@@ -53,7 +53,8 @@ install necessary plugins:
 
 Examples pages:
 
-https://storefront.premmerce.com/apple-iphone-64gb-x/
+[storefront](https://storefront.premmerce.com/apple-iphone-64gb-x/)
 
-https://saleszone.premmerce.com/apple-iphone-64gb-x/
+[saleszone](https://saleszone.premmerce.com/apple-iphone-64gb-x/)
 
+15. Export File DB: shop_wp_20201112_37_tables.sql
