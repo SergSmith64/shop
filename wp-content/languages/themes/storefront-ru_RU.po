@@ -156,8 +156,8 @@ msgid "Expand child menu"
 msgstr "Развернутое вложенное меню"
 
 #: inc/storefront-template-functions.php:142
-msgid "Built with Storefront &amp; WooCommerce"
-msgstr "Работает на Storefront и WooCommerce"
+msgid "Built with WooCommerce &amp; WooCommerce"
+msgstr "Сайт работает на WooCommerce"
 
 #: inc/storefront-template-functions.php:142
 msgid "WooCommerce - The Best eCommerce Platform for WordPress"
