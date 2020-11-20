@@ -62,3 +62,5 @@ Examples pages:
 16. Add new category and content
 
 17. Add content
+
+18. Add [child theme for Storefront](https://github.com/stuartduff/storefront-child-theme)
