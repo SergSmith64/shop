@@ -64,3 +64,6 @@ Examples pages:
 17. Add content
 
 18. Add [child theme for Storefront](https://github.com/stuartduff/storefront-child-theme)
+
+19. Edit function from child theme and Install plugin:
+* Booster for Woocommerce (5.3.5 -- Pluggabl LLC)
