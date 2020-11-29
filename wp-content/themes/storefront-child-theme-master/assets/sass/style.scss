@@ -20,6 +20,10 @@ FontAwesome License: SIL Open Font License - http://scripts.sil.org/OFL
 Images License: GNU General Public License v2 or later
 */
 
-/*
- * Add your own custom css below this text.
- */
+.storefront-secondary-navigation .woocommerce-active .site-header .site-branding {
+  background-color: rgb(233, 168, 168);
+}
+
+.site-branding {
+  background-color: rgb(230, 69, 69) !important;
+}

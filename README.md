@@ -67,3 +67,8 @@ Examples pages:
 
 19. Edit function from child theme and Install plugin:
 * Booster for Woocommerce (5.3.5 -- Pluggabl LLC)
+
+20. Edit function:
+* I remove SEARCH (remove_filter) from the header and add SEARCH as a widget after the title in the theme SETTINGS.
+* I do the wrapper as it is a child theme and its FUNCTION is executed first.
+
