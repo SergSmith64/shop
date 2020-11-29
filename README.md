@@ -72,3 +72,4 @@ Examples pages:
 * I remove SEARCH (remove_filter) from the header and add SEARCH as a widget after the title in the theme SETTINGS.
 * I do the wrapper as it is a child theme and its FUNCTION is executed first.
 
+21. Edit function: add phone and address in Header.

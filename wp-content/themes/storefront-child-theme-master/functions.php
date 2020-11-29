@@ -32,10 +32,6 @@ remove_filter( 'woocommerce_archive_description', 'woocommerce_product_archive_d
 
 add_action ( 'woocommerce_after_main_content', 'woocommerce_taxonomy_archive_description', 15);
 add_action ( 'woocommerce_after_main_content', 'woocommerce_product_archive_description', 15);
-// function ss64_taxonomy_archive_description() {
-//     woocommerce_taxonomy_archive_description();
-// }
-
 
 // STEP-20
 // __ I remove SEARCH (remove_filter) from the header and add SEARCH as a widget after the title in the theme SETTINGS. __
@@ -47,4 +43,19 @@ add_action( 'after_setup_theme', 'basic_child_theme_setup', 1 );
 function basic_child_theme_setup () {
     remove_filter( 'storefront_header', 'storefront_product_search', 40 );
 }
+
+// STEP-21 __ Беру из __storefront-woocommerce_template_function.php__:
+// __Сюда добавляю новый стиль __site-phone__
+add_action ( 'storefront_header', 'ss64_site_phone', 40 );
+function ss64_site_phone(){
+    ?>
+    <div class="ss64-site-phone">
+        <a href="tel:+78889991122">+7888-999-11-22</a>
+    </div>
+    <div class="ss64-site-phone">
+        <p>Москва, Красная пл.</p>
+    </div>
+<?php
+}
+
 
