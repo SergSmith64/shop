@@ -49,13 +49,13 @@ function basic_child_theme_setup () {
 add_action ( 'storefront_header', 'ss64_site_phone', 40 );
 function ss64_site_phone(){
     ?>
-    <div class="ss64-site-phone">
-        <a href="tel:+78889991122">+7888-999-11-22</a>
-    </div>
-    <div class="ss64-site-phone">
-        <p>Москва, Красная пл.</p>
-    </div>
-<?php
+        <div class="ss64-site-phone">
+            <a href="tel:+78889991122">+7888-999-11-22</a>
+        </div>
+        <div class="ss64-site-phone">
+            <p>Москва, Красная пл.</p>
+        </div>
+    <?php
 }
 
 

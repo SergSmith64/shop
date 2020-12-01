@@ -19,6 +19,44 @@ along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normali
 FontAwesome License: SIL Open Font License - http://scripts.sil.org/OFL
 Images License: GNU General Public License v2 or later
 */
-/*
- * Add your own custom css below this text.
- */
+
+.primary-navigation {
+  background-color: lightpink;
+}
+
+nav .secondary-navigation {
+  background-color: lightsteelblue;
+}
+
+.menu-main_add-container ul li a {
+  background-color: mediumaquamarine;
+}
+
+.menu-main_add-container ul li a:hover {
+  color: fuchsia;
+  font-weight: bold;
+}
+
+.storefront-secondary-navigation .woocommerce-active .site-header .site-branding {
+  background-color: red;
+}
+
+.site-branding {
+  background-color: orange;
+}
+
+.ss64-site-phone {
+  background-color: indianred;
+  padding: 1px;
+}
+
+.ss64-site-phone a {
+  font-weight: bold !important;
+  color: red;
+  background-color: yellowgreen;
+  padding: 15px;
+}
+
+.ss64-site-phone p {
+  font-size: 22px;
+}

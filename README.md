@@ -73,3 +73,5 @@ Examples pages:
 * I do the wrapper as it is a child theme and its FUNCTION is executed first.
 
 21. Edit function: add phone and address in Header.
+
+22. Header Editing Experiments
