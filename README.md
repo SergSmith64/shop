@@ -75,3 +75,6 @@ Examples pages:
 21. Edit function: add phone and address in Header.
 
 22. Header Editing Experiments
+
+23. Install plugin: Duplicator (1.3.40 -- Snap Creek)
+
