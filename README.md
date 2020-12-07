@@ -78,3 +78,4 @@ Examples pages:
 
 23. Install plugin: Duplicator (1.3.40 -- Snap Creek)
 
+24. Add SFTP access using the Plugin _SFTP_. All settings in sftp.json

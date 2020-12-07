@@ -17,3 +17,4 @@ wp-content/*
 /.idea/
 /wp-admin/
 /wp-includes/
+/.vscode/sftp.json
