@@ -79,3 +79,6 @@ Examples pages:
 23. Install plugin: Duplicator (1.3.40 -- Snap Creek)
 
 24. Add SFTP access using the Plugin _SFTP_. All settings in sftp.json
+
+25. Export File DB: shop_wp_20201210_38_tables.sql
+
