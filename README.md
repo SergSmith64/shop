@@ -85,3 +85,4 @@ Examples pages:
 26. Install plugin: WP-Recall (16.24.30 -- Plechev Andrey)
 * (Фронт-енд профиль, система личных сообщений и рейтинг пользователей на сайте вордпресс.)
 
+27. Export File DB: shop_wp_20201210_48_tables.sql
